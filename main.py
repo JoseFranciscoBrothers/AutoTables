@@ -109,7 +109,7 @@ def generate(table, month):
     st.session_state.df_prod_renopac = df_prod_renopac
 
 
-st.title("Coyuntural")
+st.title("Actualización de tablas")
 table_VF = st.file_uploader("Select Planeación VF", type="xlsx")
 month = st.selectbox(
     "Select Month",
