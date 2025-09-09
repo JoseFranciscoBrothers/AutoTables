@@ -181,7 +181,6 @@ def generate(table, month):
 
 # Sidebar
 with st.sidebar:
-    st.image("https://www.nicepng.com/png/full/362-3624869_factory-icon-png-factory-icon-white-png.png", width=100)
     st.title("Panel de Control")
     st.info("Esta aplicación permite generar tablas de planificación a partir de un archivo Excel.")
 
