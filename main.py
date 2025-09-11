@@ -194,7 +194,7 @@ with st.sidebar:
         """)
 
     st.divider()
-    st.caption("© 2023 Sistema de Planificación v1.0")
+    st.caption("© 2025 Sistema de Planificación v1.0")
 
 # Contenido principal
 colored_header(label="Sistema de Planificación de Producción",
